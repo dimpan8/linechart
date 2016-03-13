@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MyLineChartView">
+        <attr name="expend_color" format="color" />
+        <attr name="income_color" format="color" />
+        <attr name="table_color" format="color" />
+        <attr name="tabletext_color" format="color" />
+    </declare-styleable>
+
+</resources>
